@@ -104,6 +104,7 @@ Este projeto é de uso pessoal e experimental. Modifique e utilize conforme nece
 ## **Contribuição**
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
+Versão 1.0
 
 ---
 
