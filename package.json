@@ -1,0 +1,22 @@
+{
+  "name": "iloveyoumom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node ./main.js",
+    "text": "node ./textToSpeech.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/text-to-speech": "^5.7.0",
+    "iloveyoumom": "file:",
+    "puppeteer": "^23.11.0",
+    "puppeteer-core": "^23.11.0",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.26.0"
+  }
+}
