@@ -109,4 +109,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 
 ## **Autor**
 
-- Desenvolvido por [Seu Nome] com ❤️ para facilitar interações automatizadas no WhatsApp.
+- Desenvolvido por José Gomes com ❤️ para facilitar interações automatizadas no WhatsApp.
